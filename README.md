@@ -6,6 +6,8 @@ Tiny vSLAM is a minimalist implementation of a real-time stereo visual SLAM syst
 
 ### A C++11 compiler
 
+c++11 features are used here
+
 ### Pangolin
 
 [Pangolin](https://github.com/stevenlovegrove/Pangolin) is used as visualization and user interface. Install instructions can found [here](https://github.com/stevenlovegrove/Pangolin/#Dependencies).
@@ -40,7 +42,7 @@ Download KITTI visual odometry dataset from [here](http://www.cvlibs.net/dataset
 
 ```./bin/run_kitti_stereo```
 
-Below is tiny-vSLAM running on KITTI sequence 05
+Below is tiny-vSLAM running on KITTI sequence 05 (link to video)
 
-[![Alt text](https://img.youtube.com/vi/7kLER7SKMXA/0.jpg)](https://youtu.be/7kLER7SKMXA)
+[![tiny-vSLAM on KITTI 05](https://img.youtube.com/vi/7kLER7SKMXA/0.jpg)](https://youtu.be/7kLER7SKMXA)
 
